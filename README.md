@@ -96,3 +96,10 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LAKSHYA-NIGAM&label=Profile+Views&color=6E40C9&style=flat" alt="profile views" />
 </p>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LAKSHYA-NIGAM/LAKSHYA-NIGAM/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LAKSHYA-NIGAM/LAKSHYA-NIGAM/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LAKSHYA-NIGAM/LAKSHYA-NIGAM/output/github-contribution-grid-snake.svg"/>
+</picture>
