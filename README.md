@@ -13,7 +13,7 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
 - 🚀 Passionate about **Web Development**, **AI/ML**, and building products that matter
 - 🏆 Hackathon Finalist — **Top 12 out of 400+ teams** at Hackstacy 2.0
 - 💼 Former **Software Engineer Intern** at YugaYatra (OPC) Pvt. Ltd.
-- 🧠 Solved **150+ DSA problems** on LeetCode (Java)
+- 🧠 Solved **250+ DSA problems** on LeetCode (Java)
 - 🌱 Currently exploring **full-stack engineering**, **NLP**, and **system design**
 - ⚡ Built **5+ full-stack projects** using React, Python, and JavaScript
 
@@ -27,13 +27,17 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
@@ -42,10 +46,10 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎤 **[IntlQ](https://github.com/LAKSHYA-NIGAM/IntlQ)** | AI-Powered Interview Simulator with NLP-based evaluation & instant feedback | Python, Flask, JS, SQLite |
-| 🌿 **VerdaChain** | Carbon Credit Risk Verification Platform with rule-based scoring on 10,000+ records | React, Node.js, PostgreSQL |
-| 🎯 **GoalSync** | Enterprise goal-setting & performance tracking portal (AtomQuest Hackathon 1.0) | React, Node.js, MongoDB |
-| 🐛 **Bug Tracking System** | Python-based system to log, manage and track 100+ issues with structured workflows | Python |
+| 📈 **[CFO360](https://github.com/LAKSHYA-NIGAM/CFO360-Financial-Planning-Performance-Transformation-Intelligence-Platform)** | Financial Planning & Performance Intelligence Platform with real-time KPI dashboards, ML variance forecasting, and automated root-cause insights. | React, Flask, Python, PostgreSQL, Power BI |
+| 🌿 **[VerdaChain](https://github.com/LAKSHYA-NIGAM/VerdaChain)** | Carbon Credit Risk Verification Platform with Drizzle ORM rule-based scoring on 10,000+ records (Hackstacy 2.0 Finalist) | Next.js, FastAPI, PostgreSQL |
+| 🎤 **[IntlQ](https://github.com/LAKSHYA-NIGAM/IntlQ)** | AI-Powered Interview Simulator with NLP-based dual scoring engine (TF-IDF + keywords) | Python, Flask, scikit-learn |
+| 🎯 **GoalSync** | Enterprise goal-setting & performance tracking portal with role-based access control workflows | React, Node.js, MongoDB |
 
 ---
 
@@ -53,10 +57,10 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
 
 - 🥇 **Finalist (Top 12 / 400+ teams)** — Hackstacy 2.0 (VerdaChain)
 - 🎮 **Global Game Jam 2025** — Built a 3D game prototype in a 48-hour sprint
-- 💻 **150+ DSA problems** solved on LeetCode (Java)
+- 💻 **250+ DSA problems** solved on LeetCode (Java)
 - 🏢 **Software Engineer Intern** — YugaYatra (OPC) Pvt. Ltd. | Jul–Sep 2025
 - 🎓 **Python Dev Training** — E&ICT Academy, IIT Kanpur | Aug–Oct 2024
-- 📜 **Certifications**: JavaScript Full Course & Mastering Generative AI (GeeksforGeeks)
+- 📜 **Certifications**: AWS Technical Essentials, AWS Cloud Practitioner, Generative AI (Google), NPTEL NLP
 
 ---
 
