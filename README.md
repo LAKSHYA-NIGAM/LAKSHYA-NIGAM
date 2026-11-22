@@ -14,7 +14,7 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
 - 🏆 Hackathon Finalist — **Top 12 out of 400+ teams** at Hackstacy 2.0 (**VerdaChain**)
 - 🧠 Solved **250+ DSA problems** on LeetCode with strong focus on Java, Trees, Graphs, and Dynamic Programming
 - ⚙️ Deep hands-on experience building production-ready architectures: **FastAPI**, **Express / Node.js**, **Spring Boot**, **Kafka**, and **PostgreSQL**
-- 🛡️ Dedicated to engineering rigor: test-driven development (170+ passing automated unit/integration tests across 25 public repositories), CI/CD pipelines, and clean architecture
+- 🛡️ Dedicated to engineering rigor: test-driven development (200+ passing automated unit/integration tests across 25 public repositories), CI/CD pipelines, and clean architecture
 
 ---
 
@@ -86,12 +86,26 @@ Hi, I'm **Lakshya Nigam**, a pre-final year **Computer Science Engineering stude
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHYA-NIGAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHYA-NIGAM&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHYA-NIGAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHYA-NIGAM&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LAKSHYA-NIGAM&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=LAKSHYA-NIGAM&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LAKSHYA-NIGAM&theme=tokyonight" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LAKSHYA-NIGAM&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LAKSHYA-NIGAM&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LAKSHYA-NIGAM&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LAKSHYA-NIGAM&theme=tokyonight&utcOffset=5.5" height="160"/>
 </p>
 
 ---
